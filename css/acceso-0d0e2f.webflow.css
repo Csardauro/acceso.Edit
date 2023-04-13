@@ -28,7 +28,7 @@ h2 {
   min-width: 44px;
   margin-top: 0px;
   margin-bottom: 10px;
-  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-family: 'Tajawal', sans-serif;
   color: #102027;
   font-size: 2rem;
   line-height: 1.4em;
@@ -193,7 +193,7 @@ blockquote {
 .heading-top {
   z-index: 99;
   font-family: 'Plus Jakarta Sans', sans-serif;
-  color: #1b95e1;
+  color: #18ACE3;
   font-size: 1rem;
   line-height: 1.5em;
   font-weight: 500;
@@ -233,7 +233,7 @@ blockquote {
 }
 
 .heading-top.padding-bottom-ten.align-center.color-white {
-  color: #fff;
+  color: #011323;
 }
 
 .heading-top.padding-bottom-ten.color-white {
@@ -244,15 +244,17 @@ blockquote {
   padding: 14px 44px;
   border: 1px solid transparent;
   border-radius: 50px;
-  background-color: #1962f2;
+  background-color: #011323;
   transition: all 400ms ease;
-  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   color: #fff;
   font-size: 1rem;
   line-height: 1.75em;
   font-weight: 500;
   text-transform: capitalize;
 }
+
+
 
 .button-main:hover {
   border-color: #1962f2;
@@ -700,7 +702,7 @@ blockquote {
 }
 
 .color-white {
-  color: #fff;
+  color: #011323;
 }
 
 .color-white.align-center.underline-on {
@@ -717,11 +719,20 @@ blockquote {
 
 .body-font {
   margin-bottom: 0px;
-  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-family: 'Tajawal', sans-serif;
   color: #6b6b6b;
   font-size: 1rem;
   line-height: 1.75em;
   font-weight: 500;
+}
+
+.body-font-number-bold {
+  margin-bottom: 0px;
+  font-family: 'Tajawal', sans-serif;
+  color: #f0f0f0;
+  font-size: 1.8rem;
+  line-height: 1.75em;
+  font-weight: 700;
 }
 
 .body-font.color-white {
@@ -909,7 +920,7 @@ blockquote {
   display: flex;
   padding: 40px 70px 30px;
   border-radius: 30px;
-  background-color: #0e1552;
+  background-color: #18ACE3;
 }
 
 .smart-application-cta-text-block {
@@ -2107,27 +2118,12 @@ blockquote {
   justify-content: center;
 }
 
-.tracking-software-gps-icon.padding-bottom-twenty.yellow-green {
+.tracking-software-gps-icon.padding-bottom-twenty.black {
   display: flex;
   justify-content: center;
-  background-color: #edffdf;
+  background-color: #151615;
 }
 
-.tracking-software-gps-icon.padding-bottom-twenty.bluish-cyan {
-  background-color: #ebf8ff;
-}
-
-.tracking-software-gps-icon.padding-bottom-twenty.orange-yellow {
-  background-color: #fff9e8;
-}
-
-.tracking-software-gps-icon.padding-bottom-twenty.blue {
-  background-color: #e6e6fc;
-}
-
-.tracking-software-gps-icon.padding-bottom-twenty.reddish-magenta {
-  background-color: #ffeffa;
-}
 
 .tracking-software-gps-grid-wrapper {
   max-width: 1110px;
@@ -3792,7 +3788,7 @@ blockquote {
 
 .contact-address-grid-block {
   padding: 40px 40px 30px;
-  background-color: #fff;
+  background-color: #18ACE3;
 }
 
 .contact-address-grid-icon-box {
@@ -4482,8 +4478,7 @@ blockquote {
 
 .account-management-services-grid-big-block {
   border-radius: 20px;
-  background-color: #001064;
-  background-image: radial-gradient(circle farthest-corner at 10% 50%, rgba(104, 18, 18, 0.38), transparent 21%);
+  background-color: #18ACE3;
 }
 
 .about-two-hero-section-paragraph-wrapper {
@@ -4501,15 +4496,13 @@ blockquote {
   padding-left: 40px;
   flex-direction: column;
   justify-content: center;
-  background-image: url('../images/Account-Management-BG-Shape.svg');
+  background-image: url('');
   background-position: 100% 0%;
   background-size: auto;
   background-repeat: no-repeat;
 }
 
-.account-management-services-big-block-gradient-one {
-  background-image: radial-gradient(circle farthest-corner at 80% 100%, #124968, transparent 23%);
-}
+
 
 .account-management-services-big-block-particle {
   position: absolute;
@@ -5211,7 +5204,7 @@ blockquote {
 
 .app-builder-process {
   padding-bottom: 120px;
-  background-image: linear-gradient(180deg, rgba(122, 175, 255, 0.3) 53%, rgba(238, 109, 119, 0.14));
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.3) 53%, rgba(255, 255, 255, 0.14));
 }
 
 .app-builder-process-client-block {
@@ -5974,9 +5967,9 @@ blockquote {
   padding: 14px 44px;
   border: 1px solid transparent;
   border-radius: 50px;
-  background-color: #1962f2;
+  background-color: #18ACE3;
   transition: all 400ms ease;
-  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-family: 'Tajawal', sans-serif;
   color: #fff;
   font-size: 1rem;
   line-height: 1.75em;
